@@ -1,7 +1,7 @@
 # Single Relation Extraction Demo
 <br>
 
-## This is just a showcase of single relation extraction, so the code is not available. The approach is by using self attention and entity aware attention.
+## This is just a showcase of single relation extraction. The approach is by using self attention and entity aware attention.
 <br>
 
 ### Data Examples
